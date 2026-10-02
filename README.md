@@ -1,4 +1,4 @@
-# claude-onboarding
+# claude-onboard
 
 **For a Claude Code session on a new or reinstalled machine.** This page is step 0: it gets you
 GitHub access, then hands you the full onboarding manual, which lives in a private repo.
@@ -56,5 +56,5 @@ and our shared skills, and ends by proving all of them in a new session.
 
 To start a fresh Claude Code on this page, tell it:
 
-> Follow https://github.com/surasakcho/claude-onboarding step by step on this machine. Ask me
+> Follow https://github.com/surasakcho/claude-onboard step by step on this machine. Ask me
 > whenever it says the user does a step.
